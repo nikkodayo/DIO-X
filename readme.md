@@ -1,0 +1,1 @@
+dashboard de vendas, com foco na organização e visualização de dados, transformando dados brutos em informações visuais claras e uteis, permitindo uma analíse eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
